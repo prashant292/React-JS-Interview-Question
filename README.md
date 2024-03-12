@@ -4,7 +4,7 @@ description: "Find the top React job 50+ Questions interview questions for 2024 
 githubPath: "(https://github.com/prashant292/Reactjs./blob/main/README.md)"
 ---
 
-<span style=" font-size: 1rem; border-bottom: 1px solid grey;"> Updated Jan 07, 2024 </span>
+<span style=" font-size: 1rem; border-bottom: 1px solid grey;"> Updated Mar 12, 2024 </span>
 
 Here you'll find the top 50+ React job interview questions for 2024 for beginners, frontend developers, junior developers as well as for experienced developers which might help you cracking your next interview.
 
